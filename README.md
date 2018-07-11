@@ -1,2 +1,2 @@
-# study
+# 코등학생 cryptocurrency
 cryptocurrency study
